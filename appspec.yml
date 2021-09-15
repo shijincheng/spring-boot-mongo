@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: .
-    destination: /home/ec2-user/spring-boot-mongo/
+    destination: /var/www/move-nft
 hooks:
   AfterInstall:
    - location: setup.sh
