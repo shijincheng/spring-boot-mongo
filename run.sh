@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "run.sh" > ./run.sh.log
+echo "run.sh" > /tmp/run.sh.log

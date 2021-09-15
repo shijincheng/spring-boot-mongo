@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "setup.sh" > ./setup.sh.log
+echo "setup.sh" > /tmp/setup.sh.log
